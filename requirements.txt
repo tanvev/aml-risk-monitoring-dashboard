@@ -1,8 +1,9 @@
 pandas
 numpy
 scikit-learn
-streamlit
-matplotlib
 networkx
+matplotlib
+plotly
+streamlit
 reportlab
 fpdf
